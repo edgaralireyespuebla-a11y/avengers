@@ -3,3 +3,4 @@
 * dr.doom
 * red skull
 * dr. herrera
+* dr. frio
